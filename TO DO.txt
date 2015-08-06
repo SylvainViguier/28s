@@ -1,0 +1,11 @@
+#Animation
+- Add animation for "Moving right" and "Moving left" for Player 
+
+#Scripts
+- Tile Editor
+- Improve Player movements
+- End level trigger on hitting "End level" sprite
+
+#Sprites
+- Choose design for Player and common Enemy
+- Add "End level" sprite
