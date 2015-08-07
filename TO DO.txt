@@ -2,7 +2,6 @@
 - Add animation for "Moving right" and "Moving left" for Player 
 
 #Scripts
-- Tile Editor
 - Improve Player movements
 - End level trigger on hitting "End level" sprite
 
